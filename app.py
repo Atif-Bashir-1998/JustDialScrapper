@@ -142,7 +142,7 @@ def except_block(browser):
         while j < 3:
             data[f'Telephone_{j + 1}'] = TELEPHONE[j]
             j -= - 1
-        print(DB_NAME, TABLE_NAME)
+        print("Table name",TABLE_NAME)
         enter_data(DB_NAME, TABLE_NAME, data)
         #print(data)
 
@@ -150,7 +150,7 @@ def except_block(browser):
         df = df.append(data, ignore_index=True)
 
     print("No sub-categories")
-    df.to_excel(f"Results.xlsx")
+    df.to_excel(f"{CAT_INFO}.xlsx")
     print("results saved")
     browser.quit()
     exit()
@@ -171,6 +171,7 @@ def selection():
 
     global TABLE_NAME
     TABLE_NAME = str(choice)
+    TABLE_NAME = TABLE_NAME.replace(" ", "_")
 
     time.sleep(4)
 
