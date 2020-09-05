@@ -1,0 +1,39 @@
+RESTAURANTS,https://www.justdial.com/uae/DU-Dubai/105/Restaurants_fil
+MOVIES,https://www.justdial.com/uae/DU-Dubai/106/Movies_fil
+MEDICAL,https://www.justdial.com/uae/DU-Dubai/167/Medical_fil
+TRAVEL,https://www.justdial.com/uae/DU-Dubai/139/Travel_fil
+Hotels,https://www.booking.com/index.html?aid=397100
+SHOPPING,https://www.justdial.com/uae/DU-Dubai/173/Shopping_fil
+Taxi-Services,https://www.justdial.com/uae/DU-Dubai/Taxi-Services
+NIGHT LIFE,https://www.justdial.com/uae/DU-Dubai/117/Nightlife_fil
+Deals-Offers,https://www.justdial.com/uae/Deals-Offers
+DAILY NEEDS,https://www.justdial.com/uae/DU-Dubai/163/Daily-needs_fil
+AUTOMOBILE,https://www.justdial.com/uae/DU-Dubai/123/Automobile_fil
+COFFEE SHOPS,https://www.justdial.com/uae/DU-Dubai/112/Coffee-shops_fil
+HOME SERVICES,https://www.justdial.com/uae/DU-Dubai/154/Home-services_fil
+AUTO SERVICES,https://www.justdial.com/uae/DU-Dubai/155/Auto-services_fil
+Repairs,https://www.justdial.com/uae/DU-Dubai/152/Repairs_fil
+BEAUTY & SPA,https://www.justdial.com/uae/DU-Dubai/122/Beauty-Spa_fil
+Hospitals,https://www.justdial.com/uae/DU-Dubai/110/Hospitals_fil
+HOME IMPROVEMENT,https://www.justdial.com/uae/DU-Dubai/143/Home-improvement_fil
+PETS,https://www.justdial.com/uae/DU-Dubai/116/Pets_fil
+ACTIVE LIFE,https://www.justdial.com/uae/DU-Dubai/135/Active-life_fil
+BABY CARE,https://www.justdial.com/uae/DU-Dubai/161/Baby-care_fil
+Car-rentals,https://www.justdial.com/uae/DU-Dubai/165/Car-rentals_fil
+CATERING SERVICES,https://www.justdial.com/uae/DU-Dubai/Catering-Services
+CLEANING SERVICES,https://www.justdial.com/uae/DU-Dubai/162/Cleaning-services_fil
+Day-Care-Centers,https://www.justdial.com/uae/DU-Dubai/Day-Care-Centers
+DOCTORS,https://www.justdial.com/uae/DU-Dubai/114/Doctors_fil
+EDUCATION,https://www.justdial.com/uae/DU-Dubai/157/Education_fil
+Emergency,https://www.justdial.com/uae/DU-Dubai/131/Emergency_fil
+Event-planning,https://www.justdial.com/uae/DU-Dubai/164/Event-planning_fil
+FINANCE,https://www.justdial.com/uae/DU-Dubai/134/Finance_fil
+FITNESS,https://www.justdial.com/uae/DU-Dubai/170/Fitness_fil
+Insurance,https://www.justdial.com/uae/DU-Dubai/158/Insurance_fil
+LIQUOR STORES,https://www.justdial.com/uae/DU-Dubai/Liquor-retail
+Moving-storage,https://www.justdial.com/uae/DU-Dubai/168/Moving-storage_fil
+PARTY,https://www.justdial.com/uae/DU-Dubai/150/Party_fil
+PEST CONTROL,https://www.justdial.com/uae/DU-Dubai/169/Pest-control_fil
+PROFESSIONAL SVCS,https://www.justdial.com/uae/DU-Dubai/136/Professional-services_fil
+REAL ESTATE,https://www.justdial.com/uae/DU-Dubai/120/Real-estate_fil
+WEDDING,https://www.justdial.com/uae/DU-Dubai/140/Wedding_fil
